@@ -7,9 +7,9 @@ in this repo, the projects concerned are personal learning projects from paid or
 <li>And a host of other rich site</li>
 Through this, one is able to build a good understanding of what datascience it and its applications
 
-## Below are a list of projects
-### Tv Data Analyses from American sports
-### Netflix Movie Analyses to know the trend of movies length with time
+## Below are a list of projects 
+### Tv Data Analyses from American sports <a href="https://github.com/andrew21-mch/Practicing-Data-science-wqu/tree/main/TV%20Analyses%20DataCamp">Here</a>
+### Netflix Movie Analyses to know the trend of movies length with time <a href="https://github.com/andrew21-mch/Practicing-Data-science-wqu/tree/main/Datascience%20module">Here</a>
 ###
 ###
 ###
