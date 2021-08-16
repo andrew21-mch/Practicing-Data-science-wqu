@@ -16,4 +16,4 @@ Through this, one is able to build a good understanding of what datascience it a
 ###
 ###
 
-                                                          <center>Nfon Andrew</center>
+                                Nfon Andrew
